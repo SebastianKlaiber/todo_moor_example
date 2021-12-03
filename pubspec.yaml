@@ -28,7 +28,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  moor_generator: ^2.0.0
+  moor_generator: ^4.0.0
   # moor_ffi: ^0.2.0
   test: ^1.5.1+1
   build_runner:
